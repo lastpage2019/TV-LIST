@@ -38,8 +38,6 @@ http://ye23.win/iptv/4k.cctv.php
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视高清",CCTV17
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
-
-
 #EXTINF:-1 tvg-id="21" tvg-name="CGTN高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视高清",CGTN高清
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="CGTN纪录高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png"group-title="央视高清",CGTN纪录高清
@@ -52,3 +50,9 @@ http://iptv.tvfix.org/hls/cgtnehd.m3u8
 http://iptv.tvfix.org/hls/cgtnahd.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="CGTN西班牙语高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="央视高清",CGTN西班牙语高清
 http://iptv.tvfix.org/hls/cgtnxhd.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视高清",凤凰资讯
+https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视高清",凤凰中文
+https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="卫视高清",凤凰香港
+https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
